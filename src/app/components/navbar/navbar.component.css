@@ -1,0 +1,24 @@
+.navbar {
+  background: #FF82A9;
+  border-color: #FFC0BE;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+  color: #fff;
+}
+
+.navbar-nav li a:hover {
+  background: #FFEBE7;
+  color: #000;
+  opacity: .2;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.angular-logo {
+  width: 50px;
+}
